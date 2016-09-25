@@ -8,11 +8,11 @@ author: Amanda Haney
 
 Well, it's official.  This website is up and going and so that is something worth being proud of (right?).
 
-For my first post, I thought I would give one of my favorite recipes.  The funny thing about me is I hate to cook, but I love to bake.  I'm not entirely sure why this is or where it comes from.  My theory is that baking is easy because it has simple, easy to follow instructions.  Cooking is harder, though.  There's more room for error.  I love how baking gives me the tools to create something, but I get admittedly nervous about cooking because my creativity seems to consistantly lead to a less-than-appetizing end product. But now I'm going to put my best apron foward and show you one of my favorite recipes of all time:
+For my first post, I thought I would show off one of my favorite recipes.  The funny thing about me is that I hate to cook, but I love to bake.  I'm not entirely sure why that is, but my theory is that baking is easy because it has simple, easy to follow instructions.  Cooking, on the other hand, is not quite so easy.  There's more room for error.  I love how baking gives me the tools to create something, but I feel safe under the structure of the receipe.  I  admittedly get nervous about cooking because my creativity seems to consistantly lead to a less-than-appetizing end product. But now I'm going to put my best apron foward and show you one of my favorite recipes of all time:
 
 Classic Coffee Cake.
 
-The great thing about this coffee cake is that you it's healthy AND fast.  So it's perfect to satisfy anyone's sweet tooth!
+The great thing about this coffee cake is that it's healthy AND fast.  So it's perfect to satisfy anyone's sweet tooth!
 
 ![GitHub Logo](/images/logo.png)
 Format: ![](http://cf.thebigmansworld.com/wp-content/uploads/2015/11/healthy-one-minute-coffee-cake_1.jpg)
