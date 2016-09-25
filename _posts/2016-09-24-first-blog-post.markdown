@@ -14,6 +14,7 @@ Classic Coffee Cake.
 
 The great thing about this coffee cake is that you it's healthy AND fast.  So it's perfect to satisfy anyone's sweet tooth!
 
+
 Ingredients: 
 
 1 1/2 T coconut flour (can sub for all almond flour)
@@ -38,10 +39,15 @@ Pinch nutmeg
 What to do:  
 
 1) In a small bowl, combine the dry ingredients and mix well.
+
 2) In a separate small bowl, combine the almond extract, dairy free milk and the egg white (or flax egg) and whisk lightly. Add the mixture to the dry mixture and mix until just combined.
+
 3) If using the streusel topping, in a small bowl, combine the almond flour with the cinnamon and palm sugar and mix well. Add the almond butter and mix well until a thick, crumbly mixture is produced. Add a dash of dairy free milk if desired.
+
 4) Grease a large mug or deep bowl (I used a cereal bowl) generously and pour the batter in it and microwave for 50 seconds-2 minutes (Depending on brand and wattage).
+
 5) Enjoy!!!
+
 
 Until next time,
 
