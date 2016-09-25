@@ -17,14 +17,22 @@ The great thing about this coffee cake is that you it's healthy AND fast.  So it
 Ingredients: 
 
 1 1/2 T coconut flour (can sub for all almond flour)
+
 1 T almond flour
+
 1/2 tsp baking powder
+
 1-2 T granulated sweetener of choice (adjust to desired sweetness)
+
 Pinch cinnamon
+
 Pinch nutmeg
+
 1/2 tsp almond extract
-1 large egg white (for a vegan version, use 1 flax egg)*
-1 T- 1/4 cup dairy free milk of choice**
+
+1 large egg white (for a vegan version, use 1 flax egg)
+
+1 T- 1/4 cup dairy free milk of choice
 
 
 What to do:  
