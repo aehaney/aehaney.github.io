@@ -14,8 +14,11 @@ Classic Coffee Cake.
 
 The great thing about this coffee cake is that you it's healthy AND fast.  So it's perfect to satisfy anyone's sweet tooth!
 
+![GitHub Logo](/images/logo.png)
+Format: ![](http://cf.thebigmansworld.com/wp-content/uploads/2015/11/healthy-one-minute-coffee-cake_1.jpg)
 
-**Ingredients**
+
+__Ingredients__
 
 * 1 1/2 T coconut flour (can sub for all almond flour)
 * 1 T almond flour
@@ -28,7 +31,7 @@ The great thing about this coffee cake is that you it's healthy AND fast.  So it
 * 1 T- 1/4 cup dairy free milk of choice
 
 
-**What to do**  
+__What to do__
 
 1. In a small bowl, combine the dry ingredients and mix well.
 2. In a separate small bowl, combine the almond extract, dairy free milk and the egg white (or flax egg) and whisk lightly. Add the mixture to the dry mixture and mix until just combined.
