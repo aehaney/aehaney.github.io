@@ -15,7 +15,7 @@ Classic Coffee Cake.
 The great thing about this coffee cake is that you it's healthy AND fast.  So it's perfect to satisfy anyone's sweet tooth!
 
 
-Ingredients: 
+**Ingredients:**
 
 1 1/2 T coconut flour (can sub for all almond flour)
 
@@ -36,7 +36,7 @@ Pinch nutmeg
 1 T- 1/4 cup dairy free milk of choice
 
 
-What to do:  
+**What to do:**  
 
 1) In a small bowl, combine the dry ingredients and mix well.
 
