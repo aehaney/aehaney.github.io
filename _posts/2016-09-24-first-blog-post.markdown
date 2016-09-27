@@ -39,3 +39,6 @@ I filled out the appropriate information and the information was available on th
 It always feels good to have little successes like this.  It's those moments where I'm convinced these things are way too over my head for me to be successful, yet I find myself being successful, that mean the most.
 
 It will definitely take more practice, but I'm feeling confident about the path that I'm on.
+
+![GitHub Logo](/images/logo.png)
+![Here's a picture of me being thinking about my attempt to put a picture on the website and it not turning out wonky.](https://outlook.office.com/owa/service.svc/s/GetFileAttachment?id=AAMkAGU1MmJjYjQxLWUyYjAtNGZmNi04MTk0LWE2YWEwMWEzZmNjOQBGAAAAAAC28aAGroc8QoKL9hZ8PWg8BwD3lbXsGghGTagCQ1Dhd6W0AAAAAAEMAAD3lbXsGghGTagCQ1Dhd6W0AAFck32PAAABEgAQABlzLclhzo5MvUBRI03Dl9A%3D&X-OWA-CANARY=gGlB3J2QIkmzjJ1_DVidcZB9fKgU59MYmJWNkEaPgNWYLz8YJbvmicLZttu4emPj9Jp8opJgKIU.)
