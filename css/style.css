@@ -12,8 +12,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
-  color: #696969;
-  background-color: B0C4DE;
+  color: #F5F5F5;
+  background-color: #808080;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,26 +66,26 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #696969 !important;
+  color: #F5F5F5 !important;
   text-decoration: none; }
   a:visited {
-    color: #b6b6b6; }
+    color: #F5F5F5; }
   a:hover {
-    color: black !important;
-    border-bottom: 1px dotted black; }
+    color: white !important;
+    border-bottom: 1px dotted white; }
   a.page-link:hover {
-    color: #696969;
-    border-bottom: 1px dotted black; }
+    color: #FFFFFF;
+    border-bottom: 1px dotted white; }
   a.postLink {
-    color: black !important; }
+    color: white !important; }
     a.postLink:hover {
-      border-bottom: 1px dotted black; }
+      border-bottom: 1px dotted white; }
     a.postLink:visited {
       color: "crimson" !important; }
   a.post-title-link {
-    color: black !important; }
+    color: white !important; }
     a.post-title-link:hover {
-      border-bottom: 1px dotted black !important; }
+      border-bottom: 1px dotted white !important; }
     a.post-title-link:visited {
       color: "crimson" !important; }
 
@@ -248,7 +248,7 @@ pre {
   font-weight: 500;
   margin-top: 1em; }
   .site-title, .site-title:visited {
-    color: #5a5a5a; }
+    color: ##F5F5F5	; }
 
 .site-description {
   font-size: 14px;
