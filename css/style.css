@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
   color: #696969;
-  background-color: orange;
+  background-color: B0C4DE;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #aaa !important;
+  color: #696969 !important;
   text-decoration: none; }
   a:visited {
     color: #b6b6b6; }
