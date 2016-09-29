@@ -40,6 +40,8 @@ It always feels good to have little successes like this.  It's those moments whe
 
 It will definitely take more practice, but I'm feeling confident about the path that I'm on.
 
+In the mean time, here's a cute puppy and my cat Zelda celebrating the creation of this website!
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=k8lL2xGi638
 " target="_blank"><img src="http://img.youtube.com/vi/k8lL2xGi638/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
