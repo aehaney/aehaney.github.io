@@ -40,7 +40,9 @@ It always feels good to have little successes like this.  It's those moments whe
 
 It will definitely take more practice, but I'm feeling confident about the path that I'm on.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k8lL2xGi638" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=k8lL2xGi638
+" target="_blank"><img src="http://img.youtube.com/vi/k8lL2xGi638/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/12118999_10208444142889432_7461825552030694401_n.jpg?oh=7d3cc8020b49335c88ccba2df7f49eab&oe=586A4431)
