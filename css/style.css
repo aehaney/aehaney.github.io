@@ -110,7 +110,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid white;
+  border: 1px black;
   border-radius: 3px;
   background-color: #eef; }
 
