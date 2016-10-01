@@ -5,8 +5,8 @@
     <description>A Website For My Class Assignments</description>
     <link>https://aehaney.github.io/</link>
     <atom:link href="https://aehaney.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Sep 2016 18:15:37 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Sep 2016 18:15:37 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2016 19:41:18 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2016 19:41:18 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -53,13 +53,11 @@ git push
 Format: &lt;img src=&quot;https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/12118999_10208444142889432_7461825552030694401_n.jpg?oh=7d3cc8020b49335c88ccba2df7f49eab&amp;amp;oe=586A4431&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Sep 2016 14:15:31 +0000</pubDate>
-        <link>https://aehaney.github.io/blogging/science/about/2016/09/24/first-blog-post.html</link>
-        <guid isPermaLink="true">https://aehaney.github.io/blogging/science/about/2016/09/24/first-blog-post.html</guid>
+        <link>https://aehaney.github.io/blogging/about/2016/09/24/first-blog-post.html</link>
+        <guid isPermaLink="true">https://aehaney.github.io/blogging/about/2016/09/24/first-blog-post.html</guid>
         
         
         <category>blogging</category>
-        
-        <category>science</category>
         
         <category>about</category>
         
