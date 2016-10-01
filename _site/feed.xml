@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amanda's Website</title>
+    <description>A Website For My Class Assignments</description>
+    <link>https://aehaney.github.io/</link>
+    <atom:link href="https://aehaney.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 01 Oct 2016 20:06:18 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2016 20:06:18 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>The Best Place to Start is the Beginning!</title>
+        <description>&lt;p&gt;Well, it’s official.  This website is up and going and so that is something worth being proud of (right?).&lt;/p&gt;
+
+&lt;p&gt;These past few weeks have been a huge learning curve.  I came into this class with virtually no experience with command lines, HTML, Markdown, or anything like these.  I was extremely nervous when I started going over the syllabus.  I thought to myself, “I have to build my own website??” It sounded horrifying!  But before I even realized it, I was being equipped with the tools necessary to do just this!&lt;/p&gt;
+
+&lt;p&gt;We started off learning the command line.  We practiced basic things like &lt;code class=&quot;highlighter-rouge&quot;&gt;pwd&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt;. These were basic things that taught us how to navigate.&lt;/p&gt;
+
+&lt;p&gt;More recently we’ve moved on to learning how to use Git as our version control system all working in a Github repository.  These things sounded extremely (and I mean EXTREMELY) intimading and difficult.  That overwhelmed feeling I had at the beginning of the semester?  Well, let’s just say it came back.&lt;/p&gt;
+
+&lt;p&gt;Honestly, though, I’m confident that whatever happens, I’m going to be okay.  I’m recognizing that this is all a trial and error process.  The best thing about the requirements of this class are that you learn through hands-on learning.&lt;/p&gt;
+
+&lt;p&gt;I think what I’ll start off sharing for my website is how I created it!&lt;/p&gt;
+
+&lt;p&gt;First, I selected by layout (I chose to use the Gravity theme) and cloned it into a new Cloud 9 workspace.  I then pushed it into my own repository. Part of this process also involved running &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --host $IP --port $PORT&lt;/code&gt;.  From there, while in my Cloud 9 workspace, I opened &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and changed the base url to the appropriate url with my github username.  After all of that, I followed a few steps to crate this post!&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Gravity
+cd _posts
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Then I created a new post which I named 2016-09-24-first-blog-post.markdown.  I opened up the blog post, filled out the content that you’re seeing here and saved it.  After that, I typed the following in my terminal:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git status
+git add .
+git commit -m &quot;Inserted relevant content with reflection on class so far&quot;
+git push
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I filled out the appropriate information and the information was available on the website like you are seeing now.&lt;/p&gt;
+
+&lt;p&gt;It always feels good to have little successes like this.  It’s those moments where I’m convinced these things are way too over my head for me to be successful, yet I find myself being successful, that mean the most.&lt;/p&gt;
+
+&lt;p&gt;It will definitely take more practice, but I’m feeling confident about the path that I’m on.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, here’s a cute puppy and my cat Zelda celebrating the creation of this website!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=k8lL2xGi638 &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/k8lL2xGi638/0.jpg&quot; alt=&quot;IMAGE ALT TEXT HERE&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/logo.png&quot; alt=&quot;GitHub Logo&quot; /&gt;
+Format: &lt;img src=&quot;https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/12118999_10208444142889432_7461825552030694401_n.jpg?oh=7d3cc8020b49335c88ccba2df7f49eab&amp;amp;oe=586A4431&quot; alt=&quot;Alt Text&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Sep 2016 14:15:31 +0000</pubDate>
+        <link>https://aehaney.github.io/blogging/about/2016/09/24/first-blog-post.html</link>
+        <guid isPermaLink="true">https://aehaney.github.io/blogging/about/2016/09/24/first-blog-post.html</guid>
+        
+        
+        <category>blogging</category>
+        
+        <category>about</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Gravity!</title>
+        <description>&lt;p&gt;Gravity is an unopinionated theme for Jekyll, the awesome static site generator.&lt;/p&gt;
+
+&lt;p&gt;Some General Instructions for Jekyll&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Mar 2016 14:15:31 +0000</pubDate>
+        <link>https://aehaney.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://aehaney.github.io/jekyll/update/2016/03/30/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Long Longer and more Longer titles look cool too!!</title>
+        <description>&lt;p&gt;“Could I be anymore pulling ?”&lt;/p&gt;
+
+&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Mar 2016 14:15:31 +0000</pubDate>
+        <link>https://aehaney.github.io/science/2016/03/30/science0.html</link>
+        <guid isPermaLink="true">https://aehaney.github.io/science/2016/03/30/science0.html</guid>
+        
+        
+        <category>science</category>
+        
+      </item>
+    
+      <item>
+        <title>Science of Gravity</title>
+        <description>&lt;p&gt;“Could I be anymore pulling ?”&lt;/p&gt;
+
+&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Mar 2016 14:15:31 +0000</pubDate>
+        <link>https://aehaney.github.io/science/2016/03/30/science.html</link>
+        <guid isPermaLink="true">https://aehaney.github.io/science/2016/03/30/science.html</guid>
+        
+        
+        <category>science</category>
+        
+      </item>
+    
+      <item>
+        <title>Design Stories : Gravity</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit.&lt;/p&gt;
+
+&lt;p&gt;Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Mar 2016 14:15:31 +0000</pubDate>
+        <link>https://aehaney.github.io/design/science/life/2016/03/30/design-stories.html</link>
+        <guid isPermaLink="true">https://aehaney.github.io/design/science/life/2016/03/30/design-stories.html</guid>
+        
+        
+        <category>design</category>
+        
+        <category>science</category>
+        
+        <category>life</category>
+        
+      </item>
+    
+  </channel>
+</rss>

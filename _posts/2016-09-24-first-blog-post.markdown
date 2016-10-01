@@ -2,7 +2,7 @@
 layout: post
 title:  "The Best Place to Start is the Beginning!"
 date:   2016-09-24 19:45:31 +0530
-categories: ["blogging", "science", "about"]
+categories: ["blogging", "about"]
 author: Amanda Haney
 ---
 
