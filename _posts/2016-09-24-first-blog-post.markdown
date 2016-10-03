@@ -46,5 +46,4 @@ In the mean time, here's a cute puppy and my cat Zelda celebrating the creation 
 " target="_blank"><img src="http://img.youtube.com/vi/k8lL2xGi638/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/12118999_10208444142889432_7461825552030694401_n.jpg?oh=7d3cc8020b49335c88ccba2df7f49eab&oe=586A4431)
+![Alt Text](https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/12118999_10208444142889432_7461825552030694401_n.jpg?oh=7d3cc8020b49335c88ccba2df7f49eab&oe=586A4431)
