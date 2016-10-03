@@ -4,10 +4,20 @@ title : About
 permalink: /about/
 ---
 
-<h2>Fun Facts About Me</h2>
-<p>Get ready to learn some awesome (or not so awesome) things about ya girl</p>
+<h2>May 5, 1995</h2>
+<center><p>I was born in South Carolina on Cinco de Mayo.  I didn't actually enjoy Mexicam food until I was 20 years old, though. </p></center>
+
+<h2>November 29, 2011</h2>
+<center><p>I got my first job at Chick-fil-A.  Worked there for five years and they barely paid more than minimum wage.  Still bitter.  But it still proved to be one of the best jobs I could have with some of the best friends I ever made. </p></center>
+
+<h2>August 14th, 2016</h2>
+I got hitched!  Just recently I married my best friend in the whole world.  Married life is awesome.  10/10 would recommend again to a friend.  </p></center>
+
+
+<h2>Gravity</h2>
+<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
 <br>
-<center><p ><strong><span class="manual">Fun Fact 1</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
@@ -15,12 +25,16 @@ permalink: /about/
   </div>
 <p>  <div class="manual-content">
 
-On August 14th of this year, I got married!  I married my best friend in the whole world.  We're both seniors at UNC Chapel Hill and ready to graduate.  
-
-One of the silly parts of the semester is that I haven't yet changed my name with the university.  So while I'm signing all documentation as Amanda Ulrich, because that's now legally my name, I'm still referred to and completing assignments as Amanda Haney.
-
-Have I mentioned how lucky men are that they don't ever have to change their name?  #patriarchy 
-
+      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
+      - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
+      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
+      <div class="example">
+        <span class='manual'>FORMAT</span><BR>
+        <pre>---
+layout: post | default | page
+title:  String<span class="hint"> Post Title</span>
+date:   Time Stamp
+categories: String | Array of Strings<span class="hint"> Category / Categories </span>
 ---</pre>
       </div>
       <div class="example">
@@ -40,11 +54,29 @@ categories: ["life", "friends"]
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Fun Fact 2</strong>
+  <strong>Create Pages</strong>
   </div>
 <p>  <div class="manual-content">
 
-This summer I interned at MetLife GTO.  As a political science major, I was the only liberal arts major at the internship.  Most students were technical degrees, though others were business degrees.  For awhile I definitely felt out of place with my degree, but eventually I was able to realize the valuea  liberal arts degree can bring to the technical field.
+      - Create a .md file in the root directory.<br>
+      - Name the file with the desired page link name.<br>  <code>about.md</code><br><code>design.md</code><br>
+      - Write the <a href="jekyll">Front Matter</a> and content in the file.
+      <div class="example">
+        <span class='manual'>FORMAT</span><BR>
+        <pre>---
+layout: page
+title: String <span class="hint">Title of the webpage</span>
+permalink: / String / <span class="hint">Permalink for the webpage</span>
+tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
+---</pre>
+      </div>
+      <div class="example">
+
+        <pre>---
+layout: page
+title:  "Science"
+permalink:   /science/
+tagline : "Humanity is overrated."
 ---</pre>
       </div>
 
@@ -55,11 +87,41 @@ This summer I interned at MetLife GTO.  As a political science major, I was the 
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Fun Fact 3</strong><br>
+  <strong>Create Archives/ Category Pages</strong><br>
 </div><br>
 <div class="archiveIntro">
   <p>
-  
-I've won 2 hula hooping competitions!
+    Introducing <strong>Archive Pages</strong>.<br></p>
+  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
+</span>
+</div>
+<br>
 
-Althogh they weren't serious competitions, I still hold my title as hula hooping champion with great pride.  
+<p>  <div class="manual-content">
+
+      - Create a .md file in the root directory.<br>
+      - Name the file. Preferred name will be the name of the category<br>  <code>life.md</code><br>
+      - Write the <a href="jekyll">Front Matter</a> and content in the file.
+      <div class="example">
+        <span class='manual'>FORMAT</span><BR>
+    <pre>---
+layout: archive<span class="hint"> Archive Page Layout</span>
+title: String <span class="hint">Title of the webpage</span>
+permalink: / String / <span class="hint">Permalink for the webpage</span>
+tagline: String <span class="hint"> Tagline for the page</span>
+category : String <span class="hint"> Name of the category of which the page will show posts.</span>
+---</pre>
+      </div>
+      <div class="example">
+
+        <pre>---
+layout: archive
+title:  "Design"
+permalink : "Design"
+category: "design"
+tagline: "It's all about perception."
+---</pre>
+    </div><br>
+  </div>
+</p>
+</div>
