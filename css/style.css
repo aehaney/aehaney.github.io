@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Josefin Sans", Helvetica, Arial, sans-serif;
 
-  color: #B0C4DE;
+  color: #F5F5F5;
   background-color: #A9A9A9;
 
   -webkit-text-size-adjust: 100%;
@@ -456,7 +456,7 @@ pre {
 .highlight {
   background: #fff; }
   .highlighter-rouge .highlight {
-    background: #eef; }
+    background: #02020C; }
   .highlight .c {
     color: #998;
     font-style: italic; }
