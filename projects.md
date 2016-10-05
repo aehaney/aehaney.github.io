@@ -6,6 +6,8 @@ permalink: /projects/
 tagline: "Loved it? Download Gravity"
 ---
 
+Assignment 1: <br>
+Assignment 2:
 
 <br>
 <div class="download">
