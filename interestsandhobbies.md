@@ -11,7 +11,7 @@ __Classic Coffee Cake.__
 
 The great thing about this coffee cake is that it's healthy AND fast.  So it's perfect to satisfy anyone's sweet tooth!
 
-!(http://cf.thebigmansworld.com/wp-content/uploads/2015/11/healthy-one-minute-coffee-cake_1.jpg)
+![](http://cf.thebigmansworld.com/wp-content/uploads/2015/11/healthy-one-minute-coffee-cake_1.jpg)
  
  
  __Ingredients__
