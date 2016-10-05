@@ -3,7 +3,7 @@ layout: page
 title : About
 permalink: /about/
 ---
-Here's a title to about me 
+Fun facts about me: 
 
 <h2>May 5, 1995</h2>
 <center><p>I was born in South Carolina on Cinco de Mayo.  I didn't actually enjoy Mexicam food until I was 20 years old, though. </p></center>
