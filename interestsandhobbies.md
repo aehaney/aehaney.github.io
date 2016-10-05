@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Interests and Hobbies
 permalink: /interestsandhobbies/
 category: "interests"
