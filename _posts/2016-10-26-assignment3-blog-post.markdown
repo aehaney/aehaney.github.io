@@ -37,14 +37,14 @@ It's always nice at the end of these projects to see that, even though the work 
 
 Here are the links to the files I converted:
 
-DOCX: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.docx
-HTML: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.html
-Markdown: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.md
-ODT: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.odt
-PDF: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.pdf
-
-Here is the link to the script:
+DOCX: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.docx <br>
+HTML: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.html <br>
+Markdown: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.md <br>
+ODT: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.odt <br>
+PDF: https://github.com/inls161/assignment-3-aehaney/blob/master/philosophy-essay.pdf <br>
+<br><br>
+Here is the link to the script:<br>
 https://github.com/inls161/assignment-3-aehaney/blob/master/aehaney-convert-docs.sh
-
-Here is a link to my C9 Workspace:
+<br><br>
+Here is a link to my C9 Workspace:<br>
 https://ide.c9.io/aehaney/assignment-2
