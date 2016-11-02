@@ -40,3 +40,8 @@ it would move the answers of the user into a separate file called "scriptanswers
 I really can't emphasize how much I enjoyed working in a group.  I've definitely enjoyed the other projects, but I liked how this offered a new level of teamwork and collaboration.  We all were able to use each other's strengths to move forward when one of us felt stuck.  
 
 Because we didn't fork the repository and only cloned it into our workspace, I'm linking to what's actually Brynna's repository.  This is cloned into my Cloud9 workspace, but, as I said, not forked into my own repository.  
+https://github.com/brynnaw/BlueBlueGreen-Assignment-4
+
+
+Also, here's a picture of President Obama since I missed part of class.
+![Alt Text](https://scontent.xx.fbcdn.net/v/t1.0-9/14947500_10211490891136234_1384724898768224553_n.jpg?oh=3bccfcc4299cecec5ae6919b58c95571&oe=588C7DA9)
