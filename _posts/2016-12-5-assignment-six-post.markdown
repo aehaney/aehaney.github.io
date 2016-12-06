@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Final Countdown...er, assigment"
+title:  "The Final Countdown...er, assignment"
 date:   2016-11-16 19:45:31 +0530
 categories: ["blogging", "about"]
 author: Amanda Haney
@@ -21,4 +21,5 @@ Some of the major skills that we built off of to be able to complete this projec
 I'm so excited for the next presentation I get to make.  Whether it's in a class I take before graduation or in a presentation I make as a full-time employee, I know being able to have this unique set of skills will set my presentations apart and keep my audience interested.  As I continue to practice on my own, it's my hope that I can even create presentations like the one we saw about the Gettysburg Address.
 
 Below you'll find a link to the presentaiton:
-https://assignment3-aehaney.c9users.io/newassignment6/index.html#/
+<br>
+brynnaw.github.io/newassignment6
