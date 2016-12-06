@@ -15,12 +15,12 @@ Is there such a thing as death by coding?  Because if there is, I think I came c
 From the beginning we were experiencing challenges.  But the great thing about this project was that it forced us to heavily rely on collaboration.  The key part of what we did was go into sql to create a database and then a table to go in our database.  We did so with the following commands:
 
 ```
-CREATE TABLE scripttable (Name VARCHAR(255)
-                          Color VARCHAR(255)
-                          Fear VARCHAR(255)
-                          Major VARCHAR(255)
-                          Food VARCHAR(255)
-                          Date VARCHAR(255)
+CREATE TABLE scripttable (Name VARCHAR(255),
+                          Color VARCHAR(255),
+                          Fear VARCHAR(255),
+                          Major VARCHAR(255),
+                          Food VARCHAR(255),
+                          Date VARCHAR(255),
                           UID VARCHAR(255));
 ```
 
@@ -36,13 +36,15 @@ echo $name,$color,$fear,$major,$food,$(today),$(UID) >> scriptanswers.csv
         
 # done < scriptanswers.csv | mysql -u aehaney -p scriptdatabase;
 
-mysql -u aehaney -p -H -e "LOAD DATA INFILE '/home/ubuntu/workspace/bluebluegreen/BlueBlueGreen-Assignment-4/scriptanswers.csv' IGNORE INTO TABLE scripttable FIELDS TERMINATED BY ',';" scriptdatabase
+mysql -u $username -p -H -e "LOAD DATA INFILE '/home/ubuntu/workspace/bluebluegreen/BlueBlueGreen-Assignment-4/scriptanswers.csv' IGNORE INTO TABLE scripttable FIELDS TERMINATED BY ',';" scriptdatabase
 
-mysqldump -u aehaney -p scriptdatabase > scriptdatabase.sql
+mysqldump -u $username -p scriptdatabase > scriptdatabase.sql
 
-#mysql -u aehaney -p -H -e "my sql-ctl cli" "SELECT COUNT(*) FROM scripttable;" scriptdatabase
+# mysql -u aehaney -p -H -e "SELECT COUNT(*) FROM scripttable;" scriptdatabase
 ```
 
 As you can see, some of what we put in there is commented out.  This is because these were attempts to try new things that were either not succsesful or we didn't want to completely get rid of in case we thought to come back to them.  
 
-One of challenges in this assignment was seeking out the necessary tools to have the correct code.  We ended up spending over an hour trying to figure out how to stop having duplicates come up in our database table.  It ended up being an extremely easy fix by just adding "IGNORE" in the code.  
+One of challenges in this assignment was seeking out the necessary tools to have the correct code.  We ended up spending over an hour trying to figure out how to stop having duplicates come up in our database table.  It ended up being an extremely easy fix by just adding "IGNORE" in the code.  The other major challenge is that when my groupmates tried to pull the information, we were met with an ERROR.  This is because it was using my username in the code.  We fixed this by replacing where my username was with `$username`. 
+
+This project was crazy.  It required so much teamwork and so much perseverance.  But I was so lucky to have an awesome group that worked together to overcome these challenges.  
